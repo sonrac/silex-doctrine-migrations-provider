@@ -1,5 +1,11 @@
 # silex-doctrine-migrations-provider
 
+It's fork https://github.com/kurlltd/silex-doctrine-migrations-provider
+
+With next changes:
+
+https://github.com/kurlltd/silex-doctrine-migrations-provider/pull/19
+
 A doctrine migrations service provider for Silex 2.x or Pimple 3.x.
 
 ## Installation

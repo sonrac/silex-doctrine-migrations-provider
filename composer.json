@@ -1,5 +1,5 @@
 {
-  "name": "kurl/silex-doctrine-migrations-provider",
+  "name": "sonrac/silex-doctrine-migrations-provider",
   "description": "A doctrine migrations provider for silex",
   "license": "MIT",
   "type": "library",
